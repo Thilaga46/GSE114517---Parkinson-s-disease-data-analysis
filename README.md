@@ -10,6 +10,6 @@ To check the expression of specific target genes KEAP1, NFE2L2, CUL3, GSK3B, SOD
 - Calculated the changes to see if they match my wet-lab expectations.
 
 ## Key Files
-- `GSE114517.csv`: Contains the expression values and statistical outputs for the target genes.
+- `GSE114517_SN_Normalized_with_genenames.csv`: Contains the expression values and statistical outputs for the target genes.
 
 Used the file generated from GSE114517 R studio to perform further analysis.
