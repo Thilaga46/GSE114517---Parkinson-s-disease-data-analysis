@@ -1,6 +1,6 @@
 #script for differential gene expression analysis (GSE114517)
 
-setwd("~/GSE114517 Data analysis/GSE114517---Parkinson-s-disease-data-analysis")
+#setwd("~/GSE114517 Data analysis/GSE114517---Parkinson-s-disease-data-analysis")
 
 #load libraries
 library(dplyr) 
